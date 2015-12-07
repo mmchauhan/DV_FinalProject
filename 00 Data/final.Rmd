@@ -108,3 +108,5 @@ Metals 2011 Import
 ![](../00 Data/method4/bar2.jpg)
 
 From these graphs we can compare and contrast the amount of exporting and importing these countries did in 2011. Since the data is cut off at the $10 million mark, the countries that are left are masjority first world, developed countries.
+
+6. Shiny Application : https://mchauhan.shinyapps.io/final
